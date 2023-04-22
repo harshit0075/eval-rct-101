@@ -1,0 +1,116 @@
+{
+  "users": [
+    { "email": "john@example.com", "password": "john123" },
+    { "email": "jane@example.com", "password": "jane123" },
+    { "email": "bob@example.com", "password": "bob123" },
+    { "email": "alice@example.com", "password": "alice123" },
+    { "email": "mike@example.com", "password": "mike123" },
+    { "email": "susan@example.com", "password": "susan123" },
+    { "email": "david@example.com", "password": "david123" },
+    { "email": "karen@example.com", "password": "karen123" },
+    { "email": "tommy@example.com", "password": "tommy123" },
+    { "email": "cindy@example.com", "password": "cindy123" }
+  ],
+  "userDetails": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "555-1234",
+      "address": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "janedoe@example.com",
+      "phone": "555-5678",
+      "address": "456 Oak Ave",
+      "city": "Somewhere",
+      "state": "NY",
+      "zip": "67890"
+    },
+    {
+      "id": 3,
+      "name": "Bob Smith",
+      "email": "bobsmith@example.com",
+      "phone": "555-9876",
+      "address": "789 Elm St",
+      "city": "Nowhere",
+      "state": "TX",
+      "zip": "54321"
+    },
+    {
+      "id": 4,
+      "name": "Alice Johnson",
+      "email": "alicejohnson@example.com",
+      "phone": "555-4321",
+      "address": "321 Pine Ave",
+      "city": "Anywhere",
+      "state": "FL",
+      "zip": "24680"
+    },
+    {
+      "id": 5,
+      "name": "Mike Brown",
+      "email": "mikebrown@example.com",
+      "phone": "555-2468",
+      "address": "135 Cedar St",
+      "city": "Somewhere",
+      "state": "CA",
+      "zip": "13579"
+    },
+    {
+      "id": 6,
+      "name": "Susan Garcia",
+      "email": "susangarcia@example.com",
+      "phone": "555-1357",
+      "address": "246 Oak St",
+      "city": "Nowhere",
+      "state": "NY",
+      "zip": "24680"
+    },
+    {
+      "id": 7,
+      "name": "David Lee",
+      "email": "davidlee@example.com",
+      "phone": "555-2468",
+      "address": "357 Maple Dr",
+      "city": "Anywhere",
+      "state": "TX",
+      "zip": "13579"
+    },
+    {
+      "id": 8,
+      "name": "Karen Kim",
+      "email": "karenkim@example.com",
+      "phone": "555-1234",
+      "address": "468 Main St",
+      "city": "Somewhere",
+      "state": "CA",
+      "zip": "24680"
+    },
+    {
+      "id": 9,
+      "name": "Tommy Nguyen",
+      "email": "tommynguyen@example.com",
+      "phone": "555-5678",
+      "address": "579 Pine Ave",
+      "city": "Nowhere",
+      "state": "NY",
+      "zip": "13579"
+    },
+    {
+      "id": 10,
+      "name": "Cindy Wong",
+      "email": "cindywong@example.com",
+      "phone": "555-9876",
+      "address": "680 Cedar St",
+      "city": "Anywhere",
+      "state": "TX",
+      "zip": "24680"
+    }
+  ]
+}
